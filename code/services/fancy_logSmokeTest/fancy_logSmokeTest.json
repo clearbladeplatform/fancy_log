@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,fancy_log",
+    "logging_enabled": "false",
+    "name": "fancy_logSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "fancy_logSmokeTest.js"
+}
